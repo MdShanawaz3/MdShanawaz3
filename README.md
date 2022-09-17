@@ -1,5 +1,5 @@
 # 💫 Mohammed Shanawaz
-<img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="20">&nbsp;Hello there!<br>I am a coding enthusiast in web development and web design.<br>Currently enrolled in Cohort A22 <b><i>Code for India Foundation.</i></b><br>I'm pursuing my 3rd year in Computer Science Engineering.<br>On the way to becoming a <strong><i>Crazy programmer.</i></strong><br><ul><strong>Interested in</strong> <li>Marketing</li> <li>Business</li> <li>Products</li> <li>Computer Networks</li><li>UI UX</li></ul>
+<img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="20">&nbsp;Hello there!<br><br>I am a coding enthusiast in web development and web design.<br>Currently enrolled in Cohort A22 <b><i>Code for India Foundation.</i></b><br>I'm pursuing my 3rd year in Computer Science Engineering.<br>On the way to becoming a <strong><i>Crazy programmer.</i></strong><br><ul><strong>Interested in</strong> <li>Marketing</li> <li>Business</li> <li>Products</li> <li>Computer Networks</li><li>UI UX</li></ul>
 <h3>Fellow at <b><i>Code for India</i></b> -Class of 2021</h3><br>
 
 <a href="mailto:mohammedshanawaz301@gmail.com">  <b>Mail Me</b> </a>
